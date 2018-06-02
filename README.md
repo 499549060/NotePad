@@ -3,8 +3,8 @@
 ### NoteList中显示条目增加时间戳显示
 在NotePad原应用中，笔记列表只显示了笔记的标题。要对它做时间扩展，可以把时间放在标题的下方。
 首先，找到列表中item的布局：noteslist_item.xml。要在标题下方加时间显示，就要在标题的TextView下再加一个时间的TextView。但是由于原应用列表item只需要一个标题，所以不需要用上别的布局，要多加一个时间TextView，就要把标题TextView和时间TextView放入垂直的线性布局。<br>
-···Java
-<!--添加显示时间的TextView-->
+···
+添加显示时间的TextView
     <TextView
         android:id="@+id/text1_time"
         android:layout_width="match_parent"
