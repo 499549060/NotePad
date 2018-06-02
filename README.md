@@ -1,2 +1,20 @@
-# NotePad
-This is an AndroidStudio rebuild of google SDK sample NotePad
+# 基于NotePad应用的功能扩展
+##基本要求
+###NoteList中显示条目增加时间戳显示
+![](https://github.com/panwenxia/NotePad/blob/master/images/1.png)<br/>
+###笔记查询（按标题查询）
+![](https://github.com/panwenxia/NotePad/blob/master/images/2.png)<br/>
+##扩展功能
+###笔记排序----按创建时间顺序排序
+![](https://github.com/panwenxia/NotePad/blob/master/images/3.png)<br/>
+###笔记排序----按修改时间顺序排序
+![](https://github.com/panwenxia/NotePad/blob/master/images/4.png)<br/>
+###导出笔记
+![](https://github.com/panwenxia/NotePad/blob/master/images/5.png)<br/>
+###UI美化
+UI美化主要是让NoteList和NoteSearch每条笔记都有背景色，并且能保存。
+将UI美化与背景更换结合，让编辑笔记时的背景色跟笔记列表的该笔记背景色同为一种颜色。
+![](https://github.com/panwenxia/NotePad/blob/master/images/7.png)<br/>
+###背景更换
+将UI美化与背景更换结合，让编辑笔记时的背景色跟笔记列表的该笔记背景色同为一种颜色。
+![](https://github.com/panwenxia/NotePad/blob/master/images/6.png)<br/>
